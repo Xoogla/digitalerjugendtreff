@@ -1,8 +1,19 @@
-# WorkAdventure Map Starter Kit
+# WorkAdventure Map Digitaler Jugendtreff
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+**Online: <https://bit.ly/38VUZTy>**
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+Eine [WorkAdventure](https://workadventu.re) Map für Jugendhäuser, die während der Coronazeit geschlossen haben. Entstanden als Proof of Concept im Rahmen eines FSJ-Projektseminars im März 2021.
+
+Editor: Tiled <https://www.mapeditor.org/>
+Map Building Tutorial: <https://workadventu.re/map-building>
+
+## Map
+
+Die einzelnen Maps (garten.json, keller.json, lounge.json) veröffentlichen wir unter [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## Music
+
+CC0 Music from <https://freesound.org>
 
 ## Tiles
 
@@ -14,4 +25,4 @@ Licensed CC-BY by Cert (cert.ccc.de):
 * tilesets/misc_set.png
 * tilesets/mapUtilities.png
 
-Other Tiles: CC0
+Other Tiles: Licensed CC0
