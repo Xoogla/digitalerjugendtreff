@@ -149,9 +149,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
-                 "value":"music\/synthloop.mp3"
+                 "value":"music\/house.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
