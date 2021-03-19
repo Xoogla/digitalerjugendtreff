@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lounge.json"
+                 "value":"lounge.json#startKeller"
                 }],
          "type":"tilelayer",
          "visible":true,
